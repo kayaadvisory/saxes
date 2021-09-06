@@ -1,6 +1,5 @@
 {
   "name": "saxes",
-  "private": true,
   "description": "An evented streaming XML parser in JavaScript",
   "author": "Louis-Dominique Dubeau <ldd@lddubeau.com>",
   "version": "5.0.1",

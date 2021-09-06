@@ -2649,7 +2649,7 @@ export class SaxesParser<O extends SaxesOptions = {}> {
       if (tag.name === name) {
         break;
       }
-      this.fail("unexpected close tag.");
+      //this.fail("unexpected close tag.");
     }
 
     if (l === 0) {
